@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kayode-E-commerce-site/static/css/main.f9305f4c.css",
+    "main.js": "/kayode-E-commerce-site/static/js/main.b10f78af.js",
+    "static/js/453.fe7d18bf.chunk.js": "/kayode-E-commerce-site/static/js/453.fe7d18bf.chunk.js",
+    "static/media/7.jpg": "/kayode-E-commerce-site/static/media/7.030c44e7c5406be999c2.jpg",
+    "static/media/2.jpg": "/kayode-E-commerce-site/static/media/2.fe75967b72de8bb95b49.jpg",
+    "static/media/5.jpg": "/kayode-E-commerce-site/static/media/5.e24a02c5e4319dbbdcac.jpg",
+    "static/media/1.png": "/kayode-E-commerce-site/static/media/1.2e71b5dbb985da44f5e5.png",
+    "static/media/10.jpg": "/kayode-E-commerce-site/static/media/10.b72954169fdcdb94a804.jpg",
+    "static/media/3.jpg": "/kayode-E-commerce-site/static/media/3.26bb88502cf5244d2e54.jpg",
+    "static/media/16.jpg": "/kayode-E-commerce-site/static/media/16.44f8b331d345146b7790.jpg",
+    "static/media/11.jpg": "/kayode-E-commerce-site/static/media/11.112ed4271ddff33f669f.jpg",
+    "static/media/12.jpg": "/kayode-E-commerce-site/static/media/12.bea851ff3a28ea4a0035.jpg",
+    "static/media/9.jpg": "/kayode-E-commerce-site/static/media/9.812aeae513d61d7c8c35.jpg",
+    "static/media/8.jpg": "/kayode-E-commerce-site/static/media/8.c44978f152ddd3da3103.jpg",
+    "static/media/15.jpg": "/kayode-E-commerce-site/static/media/15.a581eb26fa56efc08e59.jpg",
+    "static/media/4.jpg": "/kayode-E-commerce-site/static/media/4.4b9e4432ecf4b34d0c54.jpg",
+    "static/media/6.jpg": "/kayode-E-commerce-site/static/media/6.61bd045b4cc4cdb57481.jpg",
+    "index.html": "/kayode-E-commerce-site/index.html",
+    "main.f9305f4c.css.map": "/kayode-E-commerce-site/static/css/main.f9305f4c.css.map",
+    "main.b10f78af.js.map": "/kayode-E-commerce-site/static/js/main.b10f78af.js.map",
+    "453.fe7d18bf.chunk.js.map": "/kayode-E-commerce-site/static/js/453.fe7d18bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9305f4c.css",
+    "static/js/main.b10f78af.js"
+  ]
+}
