@@ -6,7 +6,7 @@ Purpose: This template serves as a demonstration of the proposed design and layo
 Features: The template includes basic features such as a navigation bar, product listings, shopping cart functionality, and responsive design.
 Development: The site is built using React.js for frontend development, with CSS for styling and React Router for navigation.
 Usage
-To view the template and explore its features, you can visit the following link: Kayode's E-commerce Site Template
+To view the template and explore its features, you can visit the following link: [Kayode's E-commerce Site Template](https://lmwale24.github.io/)
 
 Notes
 This template is a work in progress and may not include all the functionality required for a fully functional e-commerce site.
