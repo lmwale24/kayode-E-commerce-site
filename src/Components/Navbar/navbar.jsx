@@ -13,7 +13,7 @@ export const Navbar = () => {
     <div className='navbar'> 
 
      <div className='links' id='logo'>
-      <Link to= "/"><FontAwesomeIcon icon={faMobileScreenButton} /> KT </Link>
+      <Link to= "/"><FontAwesomeIcon icon={faMobileScreenButton} /> Kay-Tech </Link>
        </div>
     <div className='links'>
     
